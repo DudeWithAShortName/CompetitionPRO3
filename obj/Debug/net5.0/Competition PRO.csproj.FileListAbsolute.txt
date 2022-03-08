@@ -1,0 +1,1291 @@
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.csproj.AssemblyReference.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.AssemblyInfoInputs.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.AssemblyInfo.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.csproj.CoreCompileInputs.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cs
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\appsettings.Development.json
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\appsettings.json
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.StaticWebAssets.xml
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.exe
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.deps.json
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.runtimeconfig.json
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.runtimeconfig.dev.json
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ref\Competition PRO.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\mscorlib.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\netstandard.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Collections.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Console.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Data.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Linq.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Memory.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Web.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Windows.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.Views.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Competition PRO.Views.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Humanizer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MyPrograms\Programirane\Competition PRO\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.Manifest.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.xml
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\scopedcss\bundle\Competition PRO.styles.css
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.TagHelpers.input.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.TagHelpers.output.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.RazorCoreGenerate.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.Views.pdb
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.csproj.CopyComplete
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.dll
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\ref\Competition PRO.dll
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.pdb
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Competition PRO.genruntimeconfig.cache
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Contest\ListovkiTest.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Contest\TheoryTest.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Contest\WorkPost1.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Contest\WorkPost2.cshtml.g.cs
+C:\MyPrograms\Programirane\Competition PRO\obj\Debug\net5.0\Razor\Views\Team\Create.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.csproj.AssemblyReference.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.AssemblyInfoInputs.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.AssemblyInfo.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.csproj.CoreCompileInputs.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.Manifest.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.xml
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\scopedcss\bundle\Competition PRO.styles.css
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.TagHelpers.input.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.TagHelpers.output.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.RazorCoreGenerate.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Contest\ListovkiTest.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Contest\TheoryTest.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost1.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost2.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\Team\Create.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\ref\Competition PRO.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\appsettings.Development.json
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\appsettings.json
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.StaticWebAssets.xml
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.exe
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.deps.json
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.runtimeconfig.json
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.runtimeconfig.dev.json
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ref\Competition PRO.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\mscorlib.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\netstandard.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Collections.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Console.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Data.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Linq.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Memory.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Web.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Windows.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.Views.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Competition PRO.Views.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Humanizer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.Views.pdb
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.csproj.CopyComplete
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Competition PRO.genruntimeconfig.cache
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Стефан 12а\Diplomen Proect\Competition_PRO-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\appsettings.Development.json
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\appsettings.json
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.StaticWebAssets.xml
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.exe
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.deps.json
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.runtimeconfig.json
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.runtimeconfig.dev.json
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ref\Competition PRO.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Server.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Components.Web.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Cors.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Http.Features.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Identity.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Metadata.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Rewrite.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Routing.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Session.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebSockets.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.CSharp.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Caching.Memory.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Hosting.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Http.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Localization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Console.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.Debug.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.VisualBasic.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.VisualBasic.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Win32.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\Microsoft.Win32.Registry.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\mscorlib.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\netstandard.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.AppContext.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Buffers.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Collections.Concurrent.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Collections.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Collections.Immutable.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Collections.NonGeneric.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Collections.Specialized.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.Annotations.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.DataAnnotations.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ComponentModel.TypeConverter.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Configuration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Console.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Data.Common.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Data.DataSetExtensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Data.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.Contracts.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.Debug.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.EventLog.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.Process.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.StackTrace.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.Tools.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.TraceSource.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Diagnostics.Tracing.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Drawing.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Drawing.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Dynamic.Runtime.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Formats.Asn1.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Globalization.Calendars.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Globalization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Globalization.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Compression.Brotli.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Compression.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Compression.FileSystem.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Compression.ZipFile.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.FileSystem.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.FileSystem.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.FileSystem.Watcher.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.IsolatedStorage.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.MemoryMappedFiles.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Pipelines.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.Pipes.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Linq.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Linq.Expressions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Linq.Parallel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Linq.Queryable.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Memory.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Http.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Http.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.HttpListener.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Mail.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.NameResolution.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.NetworkInformation.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Ping.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Requests.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Security.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.ServicePoint.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.Sockets.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.WebClient.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.WebHeaderCollection.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.WebProxy.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.WebSockets.Client.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Net.WebSockets.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Numerics.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Numerics.Vectors.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ObjectModel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.DispatchProxy.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Emit.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Emit.ILGeneration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Emit.Lightweight.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Metadata.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Reflection.TypeExtensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Resources.Reader.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Resources.Writer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Handles.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.InteropServices.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Intrinsics.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Loader.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Numerics.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Runtime.Serialization.Xml.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.AccessControl.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Claims.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Cng.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Csp.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Encoding.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Primitives.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Cryptography.Xml.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Permissions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Principal.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.Principal.Windows.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Security.SecureString.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ServiceModel.Web.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ServiceProcess.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.Encoding.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Channels.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Overlapped.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Dataflow.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Tasks.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Tasks.Parallel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Thread.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.ThreadPool.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Threading.Timer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Transactions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Transactions.Local.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.ValueTuple.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Web.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Web.HttpUtility.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Windows.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Windows.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.Linq.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.ReaderWriter.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.Serialization.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.XDocument.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.XmlDocument.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.XmlSerializer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.XPath.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\System.Xml.XPath.XDocument.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\refs\WindowsBase.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.Views.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Competition PRO.Views.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Humanizer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.csproj.AssemblyReference.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.AssemblyInfoInputs.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.AssemblyInfo.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.csproj.CoreCompileInputs.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.MvcApplicationPartsAssemblyInfo.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.RazorAssemblyInfo.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.Manifest.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\staticwebassets\Competition PRO.StaticWebAssets.xml
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\scopedcss\bundle\Competition PRO.styles.css
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.TagHelpers.input.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.TagHelpers.output.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.RazorCoreGenerate.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\ListovkiTest.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\TheoryTest.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost1.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost2.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Team\Create.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.RazorTargetAssemblyInfo.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.Views.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.csproj.CopyComplete
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\ref\Competition PRO.dll
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.pdb
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.genruntimeconfig.cache
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost.cshtml.g.cs

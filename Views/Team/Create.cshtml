@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Competition_PRO.Models.TeamInputModel
+
+<form method="post">
+
+    @for(int i=0;i<3;i++)
+    {
+        <div class="form-group">
+            <label for="Names[@i]">Name of participant:</label>
+            <input type="text" name="Names[@i]" />
+        </div>
+    }
+
+    <div class="form-group">
+        <label asp-for="LeaderName">Name of leader:</label>
+        <input asp-for="LeaderName" />
+    </div>
+    <div class="form-group">
+        <label asp-for="ShortSchoolName">Name of school:</label>
+        <input asp-for="ShortSchoolName" />
+    </div>
+    <input type="submit" class="btn btn-primary" />
+</form>

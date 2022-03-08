@@ -1,0 +1,47 @@
+﻿@model Competition_PRO.Models.WorkPostInputModel
+
+
+
+<form method="post">
+    <h1>Работен пост <input asp-for="PostNumber" type="hidden" />@Model.PostNumber</h1>
+    <h2>
+        Отбор <input asp-for="TeamName" type="hidden" />@Model.TeamName
+        <input asp-for="TeamNumber" type="hidden" />
+    </h2>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th scope="col" rowspan="2">Критерии</th>
+                <th scope="col" rowspan="2">Макс. бр. точки</th>
+                <th scope="col" colspan="2">Получени точки от състезателите</th>
+
+            </tr>
+            <tr>
+                @{int index = 0;}
+                @foreach (var item in Model.Participants)
+                {
+    <th>
+        #@(index+1) @item.Name
+        <input name="Participants[@index].Name" type="hidden" value="@item.Name" />
+        <input name="Participants[@index].Id" type="hidden" value="@item.Id" />
+    </th>index++;
+                }
+            </tr>
+        </thead>
+        <tbody>
+
+            @for (int i = 0; i < 5; i++)
+            {
+<tr>
+    <td>Критерий @(i+1) </td>
+    <td>10</td>
+    <td><input type="number" name="Participants[0].Points[@i]" /></td>
+    <td><input type="number" name="Participants[1].Points[@i]" /></td>
+</tr>            }
+        </tbody>
+    </table>
+    <input asp-for="JuryMemberId" type="hidden" />
+    <input type="submit" class="btn btn-primary" />
+</form>
+
+
