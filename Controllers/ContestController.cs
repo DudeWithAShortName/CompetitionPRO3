@@ -82,7 +82,7 @@ namespace Competition_PRO.Controllers
                     TeamParticipantId = item.Id,
                     WorkPostId = model.PostNumber,
                     //  JuryMemberId = model.JuryMemberId,
-                    JuryMemberId = 1,
+                    JuryMemberId = 8,
                     Points = this.service.PointsToString(item.Points)
                 };
                 this.db.MechanicPrimaries.Add(participant);

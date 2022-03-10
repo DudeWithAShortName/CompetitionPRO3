@@ -1,0 +1,35 @@
+﻿.float-container {
+    border: 3px solid #fff;
+    padding: 2px;
+}
+
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+}
+.cardInside {
+    flex: 1 1 auto;
+    padding: 5px;
+}
+.text-center {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    border: 1px solid #000;
+}
+
+th.points, td.points {
+    width: 5%
+}
+img.image-home {
+    width: 50px;
+    height: 50px;
+    border-radius: 50% 
+}
+h2.custom-size {
+    font-size: 5.2rem;
+}

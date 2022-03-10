@@ -1,47 +1,135 @@
 ﻿@model Competition_PRO.Models.WorkPostInputModel
 
 
+<link rel="stylesheet" href="~/css/WorkPost.css">
 
-<form method="post">
-    <h1>Работен пост <input asp-for="PostNumber" type="hidden" />@Model.PostNumber</h1>
-    <h2>
-        Отбор <input asp-for="TeamName" type="hidden" />@Model.TeamName
-        <input asp-for="TeamNumber" type="hidden" />
-    </h2>
-    <table class="table table-striped">
-        <thead>
-            <tr>
-                <th scope="col" rowspan="2">Критерии</th>
-                <th scope="col" rowspan="2">Макс. бр. точки</th>
-                <th scope="col" colspan="2">Получени точки от състезателите</th>
+@{ string[] categories = {
+        "Освобождаване връзка включател - четкодържател",
+        "Освобождаване връзка заден капак - четкодържател",
+        "Демонтаж, монтаж заден капак и четкодържател",
+        "Демонтаж, монтаж стартор и ротор",
+        "Демонтаж, монтаж включвател и котва",
+        "Демонтаж, монтаж редуктор",
+        "Измерване ротор за късо съединение",
+        "Оценка състояние четки",
+    };
+}
 
-            </tr>
-            <tr>
-                @{int index = 0;}
-                @foreach (var item in Model.Participants)
+
+<div id="accordion">
+    <div class="card">
+        <div class="card-header text-center">
+            <a class="card-link " data-toggle="collapse" href="#collapseOne">
+                <input asp-for="TeamName" type="hidden" />@Model.TeamName
+                <input asp-for="TeamNumber" type="hidden" />
+            </a>
+        </div>
+        <div id="collapseOne" class="collapse show" data-parent="#accordion">
+            <div class="cardInside">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th scope="col" rowspan="2">Критерии</th>
+                            <th scope="col" rowspan="2">Макс. бр. точки</th>
+                            <th scope="col" colspan="2">Получени точки от състезателите</th>
+                        </tr>
+                        <tr>
+                            @{int index = 0;}
+                            @foreach (var item in Model.Participants)
+                            {
+                            <th>
+                                #@(index+1) @item.Name
+                                <input name="Participants[@index].Name" type="hidden" value="@item.Name" />
+                                <input name="Participants[@index].Id" type="hidden" value="@item.Id" />
+                            </th>index++;
+                            }
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var category in categories)
+                        {
+                        <tr>
+                            <td>@category</td>
+                            <td >10</td>
+                            <td ><input type="number" name="Participants[0].Points[@category]" /></td>
+                            <td ><input type="number" name="Participants[1].Points[@category]" /></td>
+                        </tr>
+                        }
+                    </tbody>
+                </table>
+                <input asp-for="JuryMemberId" type="hidden" />
+                <input type="submit" class="btn btn-primary" />
+                @*<div class="float-container">
+
+            <div class="float-child">
+                <div class="green">Float Column 1</div>
+            </div>
+
+            <div class="float-child">
+                <div class="blue">Float Column 2</div>
+            </div>
+
+        </div>*@
+            </div>
+        </div>
+    </div>
+
+    <div class="card">
+        <div class="card-header text-center">
+            <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
+                Collapsible Group Item #2
+            </a>
+        </div>
+        <div id="collapseTwo" class="collapse" data-parent="#accordion">
+            <div class="card-body">
+                Lorem ipsum..
+            </div>
+        </div>
+    </div>
+</div>
+
+@*
+    <form method="post">
+        <h1>Работен пост <input asp-for="PostNumber" type="hidden" />@Model.PostNumber</h1>
+        <h2>
+            Отбор <input asp-for="TeamName" type="hidden" />@Model.TeamName
+            <input asp-for="TeamNumber" type="hidden" />
+        </h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col" rowspan="2">Критерии</th>
+                    <th scope="col" rowspan="2">Макс. бр. точки</th>
+                    <th scope="col" colspan="2">Получени точки от състезателите</th>
+
+                </tr>
+                <tr>
+                    @{int index = 0;}
+                    @foreach (var item in Model.Participants)
+                    {
+        <th>
+            #@(index+1) @item.Name
+            <input name="Participants[@index].Name" type="hidden" value="@item.Name" />
+            <input name="Participants[@index].Id" type="hidden" value="@item.Id" />
+        </th>
+    index++;
+    }
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var category in categories)
                 {
-    <th>
-        #@(index+1) @item.Name
-        <input name="Participants[@index].Name" type="hidden" value="@item.Name" />
-        <input name="Participants[@index].Id" type="hidden" value="@item.Id" />
-    </th>index++;
-                }
-            </tr>
-        </thead>
-        <tbody>
-
-            @for (int i = 0; i < 5; i++)
-            {
-<tr>
-    <td>Критерий @(i+1) </td>
-    <td>10</td>
-    <td><input type="number" name="Participants[0].Points[@i]" /></td>
-    <td><input type="number" name="Participants[1].Points[@i]" /></td>
-</tr>            }
-        </tbody>
-    </table>
-    <input asp-for="JuryMemberId" type="hidden" />
-    <input type="submit" class="btn btn-primary" />
-</form>
+    <tr>
+        <td>@category</td>
+        <td>10</td>
+        <td><input type="number" name="Participants[0].Points[@category]" /></td>
+        <td><input type="number" name="Participants[1].Points[@category]" /></td>
+    </tr>}
+            </tbody>
+        </table>
+        <input asp-for="JuryMemberId" type="hidden" />
+        <input type="submit" class="btn btn-primary" />
+    </form>
+    *@
 
 

@@ -7,6 +7,10 @@ namespace Competition_PRO.Models
 {
     public class WorkPostInputModel
     {
+        public WorkPostInputModel()
+        {
+            this.Participants = new HashSet<ParticipantInputModel>();
+        }
         public int PostNumber { get; set; }
         public int TeamNumber { get; set; }
         public string TeamName { get; set; }
