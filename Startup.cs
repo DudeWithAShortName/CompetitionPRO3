@@ -46,6 +46,8 @@ namespace Competition_PRO
                 options.Password.RequiredLength = 5;
             })
                 .AddEntityFrameworkStores<ApplicationDbContext>();
+            //.AddRoles<ApplicationRole>();
+
             services.AddControllersWithViews();
             services.AddTransient<IContestService, ContestService>();
         }

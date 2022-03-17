@@ -84,9 +84,16 @@ namespace Competition_PRO.Areas.Identity.Pages.Account
                     Email = Input.Email,
                     FirstName = Input.FirstName,
                     LastName = Input.LastName,
-
                 };
+
+                // if (_userManager.Users.Count() == 0)
+                //    await _userManager.AddToRoleAsync(user, "Admin");
+                //else
+                //    await _userManager.AddToRoleAsync(user, "User");
                 var result = await _userManager.CreateAsync(user, Input.Password);
+                await _userManager.AddToRoleAsync(user, "Admin");
+
+
                 if (result.Succeeded)
                 {
                     _logger.LogInformation("User created a new account with password.");

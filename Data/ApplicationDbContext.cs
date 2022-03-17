@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Competition_PRO.Data
 {
-    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    public class ApplicationDbContext : IdentityDbContext<ApplicationUser, ApplicationRole, string>
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
@@ -22,5 +22,7 @@ namespace Competition_PRO.Data
         public DbSet<TeamParticipant> TeamParticipants { get; set; }
         public DbSet<TheoryTest> TheoryTests { get; set; }
         public DbSet<MechanicPrimary> MechanicPrimaries { get; set; }
+        public DbSet<ApplicationRole> ApplicationRole { get; set; }
+
     }
 }

@@ -1,0 +1,13 @@
+﻿@model Competition_PRO.Models.CreateRoleViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+<main class="mt-3">
+    <form class="mx-auto half-width" method="post" action="/users/login">
+        <div class="form-group">
+            <label asp-for="RoleName">Username</label>
+            <input asp-for="RoleName" class="form-control"  placeholder="Rolename...">
+        </div>
+    </form>
+</main>

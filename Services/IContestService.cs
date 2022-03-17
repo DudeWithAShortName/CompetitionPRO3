@@ -12,5 +12,7 @@ namespace Competition_PRO.Services
         public IEnumerable<ParticipantInputModel> GetTeamMechanics(int TeamNumber);
         public string PointsToString(IEnumerable<int> pointsArr);
         public IEnumerable<int> PointToArrInt(string points);
+      //  public IEnumerable<int> GetParticipantPoints(int id);
+
     }
 }

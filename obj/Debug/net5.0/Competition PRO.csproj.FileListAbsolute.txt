@@ -1289,3 +1289,4 @@ C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\ref\Compet
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.pdb
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.genruntimeconfig.cache
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs

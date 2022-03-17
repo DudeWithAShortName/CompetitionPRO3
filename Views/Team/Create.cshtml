@@ -1,22 +1,61 @@
 ﻿@model Competition_PRO.Models.TeamInputModel
+    <link rel="stylesheet" href="~/css/site.css">
 
-<form method="post">
+    @*<form method="post">
 
-    @for(int i=0;i<3;i++)
-    {
-        <div class="form-group">
-            <label for="Names[@i]">Name of participant:</label>
-            <input type="text" name="Names[@i]" />
+            @for(int i=0;i<3;i++)
+            {
+                <div class="form-group">
+                    <label for="Names[@i]">Name of participant:</label>
+                    <input type="text" name="Names[@i]" />
+                </div>
+            }
+
+            <div class="form-group">
+                <label asp-for="LeaderName">Name of leader:</label>
+                <input asp-for="LeaderName" />
+            </div>
+            <div class="form-group">
+                <label asp-for="ShortSchoolName">Name of school:</label>
+                <input asp-for="ShortSchoolName" />
+            </div>
+            <input type="submit" class="btn btn-primary" />
+        </form>*@
+
+<section class="vh-100 bg-image" style="background-image: url('~/images/goldcup.png');">
+    <div class="mask d-flex align-items-center h-100 gradient-red-purple">
+        <div class="container h-100">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <div class="col-12 col-md-9 col-lg-7 col-xl-6">
+                    <div class="card" style="border-radius: 15px;">
+                        <div class="card-body p-5">
+                            <h2 class="text-uppercase text-center mb-5">Регистрация на отбор</h2>
+                            <form>
+                                @for (int i = 0; i < 3; i++)
+                                {
+                    <div class="form-group">
+                        <label class="form-label" for="Names[@i]">Име на участник:</label>
+                        <input id="form3Example1cg" class="form-control form-control-lg" type="text" name="Names[@i]" />
+                    </div>}
+                                <div class="form-group">
+                                    <label class="form-label" asp-for="LeaderName">Име на ръководител:</label>
+                                    <input id="form3Example1cg" class="form-control form-control-lg" asp-for="LeaderName" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label" asp-for="ShortSchoolName">Име на училище:</label>
+                                    <input id="form3Example1cg" class="form-control form-control-lg" asp-for="ShortSchoolName" />
+                                </div>
+                                <div class="d-flex justify-content-center">
+                                    <button type="submit" class="btn btn-danger-custom btn-block btn-lg  text-body">Регистрация</button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
-    }
-
-    <div class="form-group">
-        <label asp-for="LeaderName">Name of leader:</label>
-        <input asp-for="LeaderName" />
     </div>
-    <div class="form-group">
-        <label asp-for="ShortSchoolName">Name of school:</label>
-        <input asp-for="ShortSchoolName" />
-    </div>
-    <input type="submit" class="btn btn-primary" />
-</form>
+</section>
+<br />
+<br />
+<br />
