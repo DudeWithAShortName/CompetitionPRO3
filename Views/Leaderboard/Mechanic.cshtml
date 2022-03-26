@@ -1,0 +1,74 @@
+﻿@model Competition_PRO.Models.WorkPostInputModel
+@*model Competition_PRO.Models.ParticipantInputModel*@
+
+<link rel="stylesheet" href="~/css/WorkPost.css">
+
+
+@{ string[] categories = {
+        "АВТОМОБИЛНИ КОЛЕЛА И ГУМИ",
+        "СПИРАЧНА СИСТЕМА",
+        "ПУСКОВА СИСТЕМА НА ДВГ",
+        "ДИАГНОСТИКА НА УПРАВЛЯВАЩИ БЛОКОВЕ В АВТОМОБИЛА",
+    }; }
+
+<div id="accordion">
+    <div class="card">
+        <div class="card-header text-center">
+            <a class="card-link " data-toggle="collapse" href="#collapseOne">
+                <input asp-for="TeamName" type="hidden" />ПГМЕТТ Христо Ботев
+                <input asp-for="TeamNumber" type="hidden" />
+            </a>
+        </div>
+        <div id="collapseOne" class="collapse open" data-parent="#accordion">
+            <div class="cardInside">
+                <div class="card">@* --------------*@
+                   <div id="accordion">
+    <div class="card">
+        <div class="card-header text-center">
+            <a class="card-link " data-toggle="collapse" href="#collapseOne">
+                <input asp-for="TeamName" type="hidden" />ПГМЕТТ Христо Ботев
+                <input asp-for="TeamNumber" type="hidden" />
+            </a>
+        </div>
+        <div id="collapseOne" class="collapse open" data-parent="#accordion">
+            <div class="cardInside">
+                <div class="card">
+                    <div class="card-header text-center">
+                        <a class="card-link " data-toggle="collapse" href="#collapseOne">
+                            @* <input asp-for="Name" type="hidden" />@Model.Participants
+                                <input asp-for="Number" type="hidden" /> *@ Стефан
+                        </a>
+                    </div>
+                    <div id="collapseTwo" class="collapse open" data-parent="#accordion">
+                        <div class="cardInside">
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th scope="col" rowspan="2">Критерии</th>
+                                    </tr>
+
+                                </thead>
+                                <tbody>
+                                    @foreach (var category in categories)
+                                    {
+                                <tr>
+                                    <td>@category</td>
+                                    <td><input type="number" name="Participants[0].Points[@category]" /></td>
+                                </tr>}
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

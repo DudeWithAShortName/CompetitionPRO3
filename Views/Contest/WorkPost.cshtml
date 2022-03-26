@@ -15,7 +15,7 @@
     };
 }
 
-
+<h2 class="text-center">Работен пост 1</h2>
 <div id="accordion">
 
     <div class="card">
@@ -72,51 +72,6 @@
             </a>
         </div>
         <div id="collapseTwo" class="collapse open" data-parent="#accordion">
-            <div class="cardInside">
-                <table class="table table-striped">
-                    <thead>
-                        <tr>
-                            <th scope="col" rowspan="2">Критерии</th>
-                            <th scope="col" rowspan="2">Макс. бр. точки</th>
-                            <th scope="col" colspan="2">Получени точки от състезателите</th>
-                        </tr>
-                        <tr>
-                            @foreach (var item in Model.Participants)
-                            {
-                <th>
-                    #@(index+1) @item.Name
-                    <input name="Participants[@index].Name" type="hidden" value="@item.Name" />
-                    <input name="Participants[@index].Id" type="hidden" value="@item.Id" />
-                </th>index++;
-                            }
-                        </tr>
-                    </thead>
-                    <tbody>
-                        @foreach (var category in categories)
-                        {
-            <tr>
-                <td>@category</td>
-                <td>10</td>
-                <td><input type="number" name="Participants[0].Points[@category]" /></td>
-                <td><input type="number" name="Participants[1].Points[@category]" /></td>
-            </tr>
-}
-                    </tbody>
-                </table>
-                <input asp-for="JuryMemberId" type="hidden" />
-                <input type="submit" class="btn btn-primary" />
-            </div>
-        </div>
-    </div>
-
-    <div class="card">
-        <div class="card-header text-center">
-            <a class="card-link " data-toggle="collapse" href="#collapseThree">
-                <input asp-for="TeamName" type="hidden" />ПГТС Разград
-                <input asp-for="TeamNumber" type="hidden" />
-            </a>
-        </div>
-        <div id="collapseThree" class="collapse open" data-parent="#accordion">
             <div class="cardInside">
                 <table class="table table-striped">
                     <thead>

@@ -1270,8 +1270,6 @@ C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Area
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\ListovkiTest.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\TheoryTest.cshtml.g.cs
-C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost1.cshtml.g.cs
-C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost2.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -1290,3 +1288,4 @@ C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competitio
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Competition PRO.genruntimeconfig.cache
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Contest\WorkPost.cshtml.g.cs
 C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Administration\CreateRole.cshtml.g.cs
+C:\MyPrograms\Diplomen Proect\CompetitionPRO2-master\obj\Debug\net5.0\Razor\Views\Leaderboard\Mechanic.cshtml.g.cs
