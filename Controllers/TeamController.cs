@@ -19,7 +19,6 @@ namespace Competition_PRO.Controllers
         {
             this.db = db;
         }
-        //https://nicepage.com/templates/preview/dining-on-the-lake-91384?device=desktop
         public IActionResult Create()
         {
             return this.View();
@@ -58,7 +57,6 @@ namespace Competition_PRO.Controllers
             this.db.Teams.Add(team);
             this.db.SaveChanges();
             return this.Redirect("/");
-
         }
     }
 }

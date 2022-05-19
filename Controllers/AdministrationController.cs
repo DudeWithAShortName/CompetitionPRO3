@@ -17,7 +17,6 @@ namespace Competition_PRO.Controllers
         {
             this.roleManager = roleManager;
         }
-        //action CreateRole
         public IActionResult CreateRole()
         {
             return View();
@@ -33,7 +32,6 @@ namespace Competition_PRO.Controllers
             {
                 Name = model.RoleName
             };
-            //добавяне на роля в базата данни
             var result = await roleManager.CreateAsync(identityRole);
             if (result.Succeeded)
             {
